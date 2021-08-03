@@ -18,6 +18,7 @@
 
 
 # Video link:
+This is updated walkthrough video
 https://drive.google.com/file/d/1QJjNlb-RQE9il5XPkcnYy54t5t5YWatZ/view
 
 
